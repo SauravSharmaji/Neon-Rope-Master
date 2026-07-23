@@ -1,0 +1,20 @@
+Neon Rope Master
+
+Privacy Policy for Neon Rope Master
+
+Neon Rope Master ("we", "our", or "us") operates the Neon Rope Master mobile application.
+
+Information Collection and Use
+We do not collect any personally identifiable information (PII) directly. However, the app uses third-party services that may collect information used to identify you.
+
+Third-Party Services
+The app uses Google AdMob services for displaying advertisements. AdMob may use device identifiers (like Android Advertising ID) to serve personalized ads and analyze ad performance.
+
+Cookies & Analytics
+Third-party vendors may use cookies or similar technologies to serve ads based on your visit to our app and other sites on the Internet.
+
+Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us via email.
